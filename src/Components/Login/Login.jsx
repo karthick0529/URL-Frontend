@@ -73,7 +73,6 @@ const Login = () => {
         >
           Provide valid credentials to login
         </Typography>
-
         <TextField
           type="email"
           name="email"
