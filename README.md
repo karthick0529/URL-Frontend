@@ -26,9 +26,6 @@ II. PRIVATE ROUTING:
   2. /getUrl --> Get All Shorten URL's created by logged-in User.
   3. /logout --> Logout user by deleting auth-Token from header.
 
-# npm requires:
+Netlify Deplyment Link:
 
-  1. react vite
-  2. react-router-dom
-  3. jet-decode
-  4. axios
+https://cheery-tulumba-0f9797.netlify.app/
