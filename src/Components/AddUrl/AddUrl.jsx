@@ -125,7 +125,7 @@ function AddUrl() {
                 <Link
                   style={{curser:'pointer'}}
                   target="_blank"
-                  to={`https://sparkling-snickerdoodle-5bba03.netlify.app/${data.shortURL}`}
+                  to={`https://cheery-tulumba-0f9797.netlify.app/${data.shortURL}`}
                 >
                   {data.shortURL}
                 </Link>
@@ -136,7 +136,7 @@ function AddUrl() {
                   color="primary"
                   aria-label="content_paste"
                   onClick={() =>
-                    copyText(`https://sparkling-snickerdoodle-5bba03.netlify.app/${data.shortURL}`)
+                    copyText(`https://cheery-tulumba-0f9797.netlify.app/${data.shortURL}`)
                   }
                 >
                   <ContentCopyIcon />
